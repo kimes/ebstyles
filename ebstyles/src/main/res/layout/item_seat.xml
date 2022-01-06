@@ -2,12 +2,19 @@
 <androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical">
+    android:orientation="horizontal">
+
+    <androidx.appcompat.widget.AppCompatCheckBox
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:gravity="center"
+        android:checked="false"
+        style="@style/Easybus.CheckBoxStyle.Button" />
 
     <androidx.appcompat.widget.AppCompatTextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:fontFamily="@font/poppins_semibold"
-        android:text="Kimuel" />
+        android:text="Kimuel"
+        style="@style/Easybus.TextStyle.Small" />
 
 </androidx.appcompat.widget.LinearLayoutCompat>
