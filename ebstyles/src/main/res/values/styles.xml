@@ -203,13 +203,13 @@
     </style>
 
     <style name="Easybus.CheckBoxStyle">
-        <item name="android:textSize">@dimen/textMedium</item>
         <item name="android:textColor">@drawable/cs_cb</item>
     </style>
 
     <style name="Easybus.CheckBoxStyle.Button">
-        <item name="android:paddingStart">15dp</item>
+        <item name="android:paddingStart">8dp</item>
         <item name="android:button">@drawable/bg_cb_btn</item>
+        <item name="android:textSize">@dimen/textSmall</item>
     </style>
 
     <style name="Easybus.CheckBoxStyle.Panel">
@@ -217,6 +217,7 @@
         <item name="android:padding">10dp</item>
         <item name="android:gravity">center</item>
         <item name="android:background">@drawable/bg_cb</item>
+        <item name="android:textSize">@dimen/textMedium</item>
     </style>
 
     <style name="Easybus.SwitchStyle">

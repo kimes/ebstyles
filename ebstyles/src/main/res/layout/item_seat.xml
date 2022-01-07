@@ -25,4 +25,9 @@
         android:clickable="false"
         style="@style/Easybus.ImageButtonStyle.Square" />
 
+    <androidx.appcompat.widget.AppCompatEditText
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        style="@style/Easybus.EditTextStyle" />
+
 </androidx.appcompat.widget.LinearLayoutCompat>

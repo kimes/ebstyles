@@ -10,6 +10,7 @@ import ph.easybus.ebstyles.R;
 
 public class EasybusImageButton extends AppCompatImageButton {
 
+    // CREATED BECAUSE IN XML ENABLED IS NOT WORKING ON IMAGEBUTTON, WORKS ONLY IN DATA BINDING
     private static final int[] STATE_ENABLED = { android.R.attr.state_enabled };
 
     public EasybusImageButton(Context context) {
