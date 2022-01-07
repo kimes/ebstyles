@@ -12,9 +12,17 @@
         style="@style/Easybus.CheckBoxStyle.Button" />
 
     <androidx.appcompat.widget.AppCompatTextView
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Kimuel"
         style="@style/Easybus.TextStyle.Small" />
+
+    <androidx.appcompat.widget.AppCompatImageButton
+        android:layout_width="@dimen/btnHeight"
+        android:layout_height="@dimen/btnHeight"
+        android:src="@drawable/ic_check"
+        android:focusable="false"
+        android:clickable="false"
+        style="@style/Easybus.ImageButtonStyle.Square" />
 
 </androidx.appcompat.widget.LinearLayoutCompat>

@@ -153,33 +153,35 @@
         <item name="android:scaleType">fitCenter</item>
         <item name="android:padding">15dp</item>
         <item name="android:stateListAnimator">@animator/btn_anim</item>
-        <item name="android:tint">@color/white</item>
+        <item name="android:tint">@drawable/cs_btn</item>
         <item name="android:background">@null</item>
     </style>
 
     <style name="Easybus.ImageButtonStyle.Square">
-        <item name="android:tint">@drawable/cs_btn</item>
         <item name="android:background">@drawable/bg_btn_sq</item>
     </style>
 
     <style name="Easybus.ImageButtonStyle.Square.Secondary">
+        <item name="android:tint">@drawable/cs_btn_secondary</item>
         <item name="android:background">@drawable/bg_btn_sq_secondary</item>
     </style>
 
     <style name="Easybus.ImageButtonStyle.Square.Tertiary">
+        <item name="android:tint">@drawable/cs_btn_secondary</item>
         <item name="android:background">@drawable/bg_btn_sq_tertiary</item>
     </style>
 
     <style name="Easybus.ImageButtonStyle.Round">
-        <item name="android:tint">@drawable/cs_btn</item>
         <item name="android:background">@drawable/bg_btn_round</item>
     </style>
 
     <style name="Easybus.ImageButtonStyle.Round.Secondary">
+        <item name="android:tint">@drawable/cs_btn_secondary</item>
         <item name="android:background">@drawable/bg_btn_round_secondary</item>
     </style>
 
     <style name="Easybus.ImageButtonStyle.Round.Tertiary">
+        <item name="android:tint">@drawable/cs_btn_secondary</item>
         <item name="android:background">@drawable/bg_btn_round_tertiary</item>
     </style>
 
