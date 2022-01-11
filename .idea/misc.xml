@@ -4,7 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Easybus/AndroidStudioProjects/EBStyles/ebstyles/src/main/res/drawable/bg_btn.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/Easybus/AndroidStudioProjects/EBStyles/ebstyles/src/main/res/drawable/bg_btn_error.xml" value="0.13385416666666666" />
         <entry key="..\:/Users/Easybus/AndroidStudioProjects/EBStyles/ebstyles/src/main/res/drawable/bg_btn_pill.xml" value="0.14814814814814814" />
+        <entry key="..\:/Users/Easybus/AndroidStudioProjects/EBStyles/ebstyles/src/main/res/drawable/bg_btn_pill_error.xml" value="0.14375" />
         <entry key="..\:/Users/Easybus/AndroidStudioProjects/EBStyles/ebstyles/src/main/res/drawable/bg_btn_pill_secondary.xml" value="0.14814814814814814" />
         <entry key="..\:/Users/Easybus/AndroidStudioProjects/EBStyles/ebstyles/src/main/res/drawable/bg_btn_pill_tertiary.xml" value="0.19166666666666668" />
         <entry key="..\:/Users/Easybus/AndroidStudioProjects/EBStyles/ebstyles/src/main/res/drawable/bg_btn_round.xml" value="0.19166666666666668" />
@@ -27,6 +29,7 @@
         <entry key="..\:/Users/Easybus/AndroidStudioProjects/EBStyles/ebstyles/src/main/res/drawable/bg_sw_thumb.xml" value="0.14814814814814814" />
         <entry key="..\:/Users/Easybus/AndroidStudioProjects/EBStyles/ebstyles/src/main/res/drawable/bg_sw_track.xml" value="0.14814814814814814" />
         <entry key="..\:/Users/Easybus/AndroidStudioProjects/EBStyles/ebstyles/src/main/res/drawable/cs_btn.xml" value="0.14814814814814814" />
+        <entry key="..\:/Users/Easybus/AndroidStudioProjects/EBStyles/ebstyles/src/main/res/drawable/cs_btn_error.xml" value="0.14375" />
         <entry key="..\:/Users/Easybus/AndroidStudioProjects/EBStyles/ebstyles/src/main/res/drawable/cs_btn_secondary.xml" value="0.14814814814814814" />
         <entry key="..\:/Users/Easybus/AndroidStudioProjects/EBStyles/ebstyles/src/main/res/drawable/cs_cb.xml" value="0.19166666666666668" />
         <entry key="..\:/Users/Easybus/AndroidStudioProjects/EBStyles/ebstyles/src/main/res/drawable/ic_check.xml" value="0.1" />

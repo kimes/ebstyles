@@ -136,6 +136,11 @@
         <item name="android:background">@drawable/bg_btn_tertiary</item>
     </style>
 
+    <style name="Easybus.ButtonStyle.Error">
+        <item name="android:background">@drawable/bg_btn_error</item>
+        <item name="android:textColor">@drawable/cs_btn_error</item>
+    </style>
+
     <style name="Easybus.ButtonStyle.Pill">
         <item name="android:background">@drawable/bg_btn_pill</item>
     </style>
@@ -147,6 +152,11 @@
 
     <style name="Easybus.ButtonStyle.Pill.Tertiary">
         <item name="android:background">@drawable/bg_btn_pill_tertiary</item>
+    </style>
+
+    <style name="Easybus.ButtonStyle.Pill.Error">
+        <item name="android:background">@drawable/bg_btn_pill_error</item>
+        <item name="android:textColor">@drawable/cs_btn_error</item>
     </style>
 
     <style name="Easybus.ImageButtonStyle">
