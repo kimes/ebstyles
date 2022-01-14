@@ -5,10 +5,10 @@
             <item>
                 <shape android:shape="rectangle">
                     <corners android:radius="@dimen/radiusSmall" />
-                    <solid android:color="@color/gray50" />
+                    <solid android:color="@color/blue40" />
                 </shape>
             </item>
-            <item android:right="10dp"
+            <item android:right="15dp"
                 android:drawable="@drawable/ic_chevron_down"
                 android:gravity="center_vertical|right"
                 android:width="12dp" android:height="7.2dp" />
@@ -21,9 +21,10 @@
                 <shape android:shape="rectangle">
                     <corners android:radius="@dimen/radiusSmall" />
                     <solid android:color="@color/white" />
+                    <stroke android:color="@color/gray50" android:width="2dp" />
                 </shape>
             </item>
-            <item android:right="10dp"
+            <item android:right="15dp"
                 android:drawable="@drawable/ic_chevron_down"
                 android:gravity="center_vertical|right"
                 android:width="12dp" android:height="7.2dp" />
@@ -35,9 +36,10 @@
                 <shape android:shape="rectangle">
                     <corners android:radius="@dimen/radiusSmall" />
                     <solid android:color="@color/gray20" />
+                    <stroke android:color="@color/gray50" android:width="2dp" />
                 </shape>
             </item>
-            <item android:right="10dp"
+            <item android:right="15dp"
                 android:drawable="@drawable/ic_chevron_down"
                 android:gravity="center_vertical|right"
                 android:width="12dp" android:height="7.2dp" />

@@ -8,7 +8,7 @@
                     <solid android:color="@color/white" />
                 </shape>
             </item>
-            <item android:right="10dp"
+            <item android:right="15dp"
                 android:drawable="@drawable/ic_chevron_down"
                 android:gravity="center_vertical|right"
                 android:width="12dp" android:height="7.2dp" />
@@ -23,7 +23,7 @@
                     <solid android:color="@color/gray50" />
                 </shape>
             </item>
-            <item android:right="10dp"
+            <item android:right="15dp"
                 android:drawable="@drawable/ic_chevron_down"
                 android:gravity="center_vertical|right"
                 android:width="12dp" android:height="7.2dp" />
@@ -37,7 +37,7 @@
                     <solid android:color="@color/gray20" />
                 </shape>
             </item>
-            <item android:right="10dp"
+            <item android:right="15dp"
                 android:drawable="@drawable/ic_chevron_down"
                 android:gravity="center_vertical|right"
                 android:width="12dp" android:height="7.2dp" />

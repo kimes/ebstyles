@@ -94,9 +94,8 @@
     <style name="Easybus.EditTextStyle">
         <item name="android:paddingTop">10dp</item>
         <item name="android:paddingBottom">10dp</item>
-        <item name="android:paddingStart">8dp</item>
-        <item name="android:paddingEnd">8dp</item>
-        <item name="android:gravity">center</item>
+        <item name="android:paddingStart">15dp</item>
+        <item name="android:paddingEnd">15dp</item>
         <item name="android:textSize">@dimen/textMedium</item>
         <item name="android:textColorHint">@color/gray50</item>
         <item name="android:textColor">@color/black</item>
@@ -196,8 +195,11 @@
     </style>
 
     <style name="Easybus.SpinnerStyle">
+        <item name="android:dropDownVerticalOffset">38dp</item>
+        <item name="android:popupElevation">0dp</item>
         <item name="android:spinnerMode">dropdown</item>
         <item name="android:background">@drawable/bg_spinner</item>
+        <item name="android:popupBackground">@drawable/bg_dropdown_menu</item>
     </style>
 
     <style name="Easybus.SpinnerStyle.Secondary">
