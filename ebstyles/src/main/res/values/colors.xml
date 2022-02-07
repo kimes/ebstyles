@@ -2,16 +2,20 @@
 <resources>
     <color name="darkBlue">#173348</color>
     <color name="lightBlue">#18374B</color>
-    <color name="mustard">#FFB02D</color>
-    <color name="skyBlue">#00BCFB</color>
 
     <color name="white">#FFFFFF</color>
     <color name="black">#000000</color>
+
+    <color name="orange10">#FFB02D</color>
+    <color name="orange20">#F2994A</color>
+
+    <color name="skyBlue">#00BCFB</color>
 
     <color name="blue10">#2C6188</color>
     <color name="blue20">#1C4058</color>
     <color name="blue30">#132A3B</color>
     <color name="blue40">#4F708A</color>
+    <color name="blue50">#0000FF</color>
 
     <color name="gray10">#CCCCCC</color>
     <color name="gray20">#B7B7B7</color>
@@ -21,6 +25,9 @@
     <color name="gray60">#F2F2F2</color>
     <color name="gray70">#4F4F4F</color>
     <color name="gray80">#333333</color>
+    <color name="gray90">#808080</color>
+    <color name="gray100">#828282</color>
+    <color name="gray110">#A2A2A2</color>
 
     <color name="red10">#CF1B1B</color>
     <color name="red20">#EB5757</color>
@@ -29,6 +36,10 @@
     <color name="green10">#628F24</color>
     <color name="green20">#8BC53D</color>
     <color name="green30">#27AE60</color>
+    <color name="green40">#219653</color>
+    <color name="green50">#8DC640</color>
+
+    <color name="lightBlue10">#E1EFF3</color>
 
     <color name="gray70Trans">#9AF2F2F2</color>
     <color name="whiteTrans">#B3FFFFFF</color>
