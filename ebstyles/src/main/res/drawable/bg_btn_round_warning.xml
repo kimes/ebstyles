@@ -16,8 +16,7 @@
     </item>
     <item android:state_enabled="false">
         <shape android:shape="oval">
-            <stroke android:color="@color/gray50" android:width="2dp" />
-            <solid android:color="@color/white" />
+            <solid android:color="@color/gray50" />
         </shape>
     </item>
 </selector>
