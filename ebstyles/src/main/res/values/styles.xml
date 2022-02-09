@@ -180,6 +180,11 @@
         <item name="android:background">@drawable/bg_btn_sq_tertiary</item>
     </style>
 
+    <style name="Easybus.ImageButtonStyle.Square.Warning">
+        <item name="android:tint">@drawable/cs_btn</item>
+        <item name="android:background">@drawable/bg_btn_sq_warning</item>
+    </style>
+
     <style name="Easybus.ImageButtonStyle.Round">
         <item name="android:background">@drawable/bg_btn_round</item>
     </style>
@@ -192,6 +197,11 @@
     <style name="Easybus.ImageButtonStyle.Round.Tertiary">
         <item name="android:tint">@drawable/cs_btn_secondary</item>
         <item name="android:background">@drawable/bg_btn_round_tertiary</item>
+    </style>
+
+    <style name="Easybus.ImageButtonStyle.Round.Warning">
+        <item name="android:tint">@drawable/cs_btn</item>
+        <item name="android:background">@drawable/bg_btn_round_warning</item>
     </style>
 
     <style name="Easybus.SpinnerStyle">
