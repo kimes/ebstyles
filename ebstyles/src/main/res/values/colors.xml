@@ -1,33 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="darkBlue">#173348</color>
-    <color name="lightBlue">#18374B</color>
-
     <color name="white">#FFFFFF</color>
     <color name="black">#000000</color>
 
-    <color name="orange10">#FFB02D</color>
-    <color name="orange20">#F2994A</color>
+    <color name="blue10">#1C4058</color>
+    <color name="blue20">#4F708A</color>
+    <color name="blue30">#00BCFB</color>
+    <color name="blue40">#70DBFF</color>
+    <color name="blue50">#ADEBFF</color>
+    <color name="blue60">#E1EFF3</color>
 
-    <color name="skyBlue">#00BCFB</color>
+    <color name="gray10">#4F4F4F</color>
+    <color name="gray20">#828282</color>
+    <color name="gray30">#BDBDBD</color>
+    <color name="gray40">#E0E0E0</color>
+    <color name="gray50">#F2F2F2</color>
 
-    <color name="blue10">#2C6188</color>
-    <color name="blue20">#1C4058</color>
-    <color name="blue30">#132A3B</color>
-    <color name="blue40">#4F708A</color>
-    <color name="blue50">#0000FF</color>
-
-    <color name="gray10">#CCCCCC</color>
-    <color name="gray20">#B7B7B7</color>
-    <color name="gray30">#959595</color>
-    <color name="gray40">#BDBDBD</color>
-    <color name="gray50">#E0E0E0</color>
-    <color name="gray60">#F2F2F2</color>
-    <color name="gray70">#4F4F4F</color>
-    <color name="gray80">#333333</color>
-    <color name="gray90">#808080</color>
-    <color name="gray100">#828282</color>
-    <color name="gray110">#A2A2A2</color>
+    <color name="orange10">#FC502A</color>
+    <color name="orange20">#E08A00</color>
+    <color name="orange30">#F59700</color>
+    <color name="orange40">#FFB02D</color>
+    <color name="orange50">#FFD085</color>
+    <color name="orange60">#FFE0AD</color>
 
     <color name="red10">#CF1B1B</color>
     <color name="red20">#EB5757</color>
@@ -38,8 +32,6 @@
     <color name="green30">#27AE60</color>
     <color name="green40">#219653</color>
     <color name="green50">#8DC640</color>
-
-    <color name="lightBlue10">#E1EFF3</color>
 
     <color name="gray70Trans">#9AF2F2F2</color>
     <color name="whiteTrans">#B3FFFFFF</color>

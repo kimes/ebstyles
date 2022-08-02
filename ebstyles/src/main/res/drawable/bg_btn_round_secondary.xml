@@ -4,14 +4,14 @@
         <ripple android:color="@color/gray20">
             <item>
                 <shape android:shape="oval">
-                    <solid android:color="@color/blue40" />
+                    <solid android:color="@color/blue60" />
                 </shape>
             </item>
         </ripple>
     </item>
     <item android:state_enabled="true">
         <shape android:shape="oval">
-            <stroke android:color="@color/gray80" android:width="2dp" />
+            <stroke android:color="@color/gray10" android:width="2dp" />
             <solid android:color="@color/white" />
         </shape>
     </item>

@@ -69,7 +69,7 @@
     </style>
 
     <style name="Easybus.HeadlineText.Default">
-        <item name="android:background">@color/gray70</item>
+        <item name="android:background">@color/gray10</item>
     </style>
 
     <style name="Easybus.HeadlineText.Error">
@@ -128,11 +128,11 @@
 
     <style name="Easybus.ButtonStyle.Secondary">
         <item name="android:background">@drawable/bg_btn_secondary</item>
-        <item name="android:textColor">@drawable/cs_btn_secondary</item>
     </style>
 
     <style name="Easybus.ButtonStyle.Tertiary">
         <item name="android:background">@drawable/bg_btn_tertiary</item>
+        <item name="android:textColor">@color/white</item>
     </style>
 
     <style name="Easybus.ButtonStyle.Error">
@@ -146,11 +146,11 @@
 
     <style name="Easybus.ButtonStyle.Pill.Secondary">
         <item name="android:background">@drawable/bg_btn_pill_secondary</item>
-        <item name="android:textColor">@drawable/cs_btn_secondary</item>
     </style>
 
     <style name="Easybus.ButtonStyle.Pill.Tertiary">
         <item name="android:background">@drawable/bg_btn_pill_tertiary</item>
+        <item name="android:textColor">@color/white</item>
     </style>
 
     <style name="Easybus.ButtonStyle.Pill.Error">
@@ -171,13 +171,12 @@
     </style>
 
     <style name="Easybus.ImageButtonStyle.Square.Secondary">
-        <item name="android:tint">@drawable/cs_btn_secondary</item>
         <item name="android:background">@drawable/bg_btn_sq_secondary</item>
     </style>
 
     <style name="Easybus.ImageButtonStyle.Square.Tertiary">
-        <item name="android:tint">@drawable/cs_btn_secondary</item>
         <item name="android:background">@drawable/bg_btn_sq_tertiary</item>
+        <item name="android:tint">@color/white</item>
     </style>
 
     <style name="Easybus.ImageButtonStyle.Square.Warning">
@@ -190,13 +189,12 @@
     </style>
 
     <style name="Easybus.ImageButtonStyle.Round.Secondary">
-        <item name="android:tint">@drawable/cs_btn_secondary</item>
         <item name="android:background">@drawable/bg_btn_round_secondary</item>
     </style>
 
     <style name="Easybus.ImageButtonStyle.Round.Tertiary">
-        <item name="android:tint">@drawable/cs_btn_secondary</item>
         <item name="android:background">@drawable/bg_btn_round_tertiary</item>
+        <item name="android:tint">@color/white</item>
     </style>
 
     <style name="Easybus.ImageButtonStyle.Round.Warning">
@@ -259,15 +257,15 @@
 
     <style name="Easybus.DatePickerDialogStyle" parent="Theme.AppCompat.Dialog">
         <item name="android:datePickerStyle">@style/Easybus.DatePickerStyle</item>
-        <item name="android:textColor">@color/gray80</item>
-        <item name="android:textColorPrimary">@color/gray80</item>
+        <item name="android:textColor">@color/gray10</item>
+        <item name="android:textColorPrimary">@color/gray10</item>
         <item name="android:textColorPrimaryInverse">@color/white</item><!-- header date, month color && calendar text highlight color -->
         <item name="android:textColorSecondaryInverse">@color/white</item><!-- header year color -->
-        <item name="colorAccent">@color/gray70</item><!-- selected date color -->
+        <item name="colorAccent">@color/gray40</item><!-- selected date color -->
     </style>
 
     <style name="Easybus.DatePickerStyle" parent="@android:style/Widget.Material.Light.DatePicker">
-        <item name="android:headerBackground">@color/gray70</item><!-- header background color -->
+        <item name="android:headerBackground">@color/gray10</item><!-- header background color -->
     </style>
 
     <style name="Easybus.CustomThemeOverlay_MaterialCalendarStyle"
@@ -275,10 +273,10 @@
         <item name="materialCalendarStyle">@style/Easybus.Custom_MaterialCalendarStyle</item>
 
         <item name="colorSurface">@color/white</item>
-        <item name="colorOnSurface">@color/gray70</item>
+        <item name="colorOnSurface">@color/gray10</item>
 
         <item name="colorOnPrimary">@color/white</item>
-        <item name="colorPrimary">@color/gray70</item>
+        <item name="colorPrimary">@color/gray10</item>
         <!--
         <item name="colorOnPrimarySurface">@color/white</item>
         <item name="colorOnSecondary">@color/white</item> -->
