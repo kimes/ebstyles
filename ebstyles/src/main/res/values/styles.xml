@@ -254,12 +254,28 @@
         <item name="android:background">@drawable/bg_spinner_secondary</item>
     </style>
 
+    <style name="Easybus.SpinnerStyle.Light">
+        <item name="android:background">@drawable/bg_spinner_light</item>
+    </style>
+
+    <style name="Easybus.SpinnerStyle.Outline">
+        <item name="android:background">@drawable/bg_spinner_outline</item>
+    </style>
+
     <style name="Easybus.SpinnerStyle.Pill">
         <item name="android:background">@drawable/bg_spinner_pill</item>
     </style>
 
     <style name="Easybus.SpinnerStyle.Pill.Secondary">
         <item name="android:background">@drawable/bg_spinner_pill_secondary</item>
+    </style>
+
+    <style name="Easybus.SpinnerStyle.Pill.Light">
+        <item name="android:background">@drawable/bg_spinner_pill_light</item>
+    </style>
+
+    <style name="Easybus.SpinnerStyle.Pill.Outline">
+        <item name="android:background">@drawable/bg_spinner_pill_outline</item>
     </style>
 
     <style name="Easybus.CheckBoxStyle">
