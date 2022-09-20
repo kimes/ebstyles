@@ -223,6 +223,21 @@
         <item name="android:background">@drawable/bg_btn_round_warning</item>
     </style>
 
+    <style name="Easybus.ImageButtonStyle.Outline">
+        <item name="android:tint">@drawable/cs_btn_outline</item>
+        <item name="android:background">@drawable/bg_btn_round_outline</item>
+    </style>
+
+    <style name="Easybus.ImageButtonStyle.Outline.Warning">
+        <item name="android:tint">@drawable/cs_btn_outline_warning</item>
+        <item name="android:background">@drawable/bg_btn_round_outline_warning</item>
+    </style>
+
+    <style name="Easybus.ImageButtonStyle.Outline.Error">
+        <item name="android:tint">@drawable/cs_btn_outline_error</item>
+        <item name="android:background">@drawable/bg_btn_round_outline_error</item>
+    </style>
+
     <style name="Easybus.SpinnerStyle">
         <item name="android:dropDownVerticalOffset">38dp</item>
         <item name="android:popupElevation">0dp</item>
