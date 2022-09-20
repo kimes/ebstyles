@@ -82,13 +82,21 @@
         <item name="android:paddingStart">15dp</item>
         <item name="android:paddingEnd">15dp</item>
         <item name="android:textSize">@dimen/textMedium</item>
-        <item name="android:textColorHint">@color/gray50</item>
         <item name="android:textColor">@color/black</item>
+        <item name="android:textColorHint">@color/gray50</item>
         <item name="android:background">@drawable/bg_et</item>
     </style>
 
-    <style name="Easybus.EditTextStyle.Round">
-        <item name="android:background">@drawable/bg_et_round</item>
+    <style name="Easybus.EditTextStyle.Outline">
+        <item name="android:background">@drawable/bg_et_outline</item>
+    </style>
+
+    <style name="Easybus.EditTextStyle.Pill">
+        <item name="android:background">@drawable/bg_et_pill</item>
+    </style>
+
+    <style name="Easybus.EditTextStyle.Pill.Outline">
+        <item name="android:background">@drawable/bg_et_pill_outline</item>
     </style>
 
     <style name="Easybus.ActionBarStyle">
@@ -120,8 +128,8 @@
     </style>
 
     <style name="Easybus.ButtonStyle.Tertiary">
-        <item name="android:background">@drawable/bg_btn_tertiary</item>
         <item name="android:textColor">@color/white</item>
+        <item name="android:background">@drawable/bg_btn_tertiary</item>
     </style>
 
     <style name="Easybus.ButtonStyle.Success">

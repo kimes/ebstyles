@@ -20,7 +20,7 @@
     <androidx.appcompat.widget.AppCompatImageButton
         android:layout_width="@dimen/btnHeight"
         android:layout_height="@dimen/btnHeight"
-        android:src="@drawable/ic_check"
+        android:src="@drawable/ic_cb_check"
         android:focusable="false"
         android:clickable="false"
         style="@style/Easybus.ImageButtonStyle.Square" />

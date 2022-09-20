@@ -2,7 +2,7 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:state_focused="true" android:state_enabled="true">
         <shape android:shape="rectangle">
-            <corners android:radius="@dimen/radiusSmall" />
+            <corners android:radius="@dimen/radiusMax" />
             <solid android:color="@color/white" />
             <stroke android:color="@color/gray10" android:width="2dp" />
         </shape>
@@ -10,15 +10,14 @@
     <item android:state_focused="false"
         android:state_enabled="true">
         <shape android:shape="rectangle">
-            <corners android:radius="@dimen/radiusSmall" />
+            <corners android:radius="@dimen/radiusMax" />
             <solid android:color="@color/white" />
-            <stroke android:color="@color/gray50" android:width="2dp" />
         </shape>
     </item>
     <item android:state_enabled="false">
         <shape android:shape="rectangle">
-            <corners android:radius="@dimen/radiusSmall" />
-            <solid android:color="@color/gray50" />
+            <corners android:radius="@dimen/radiusMax" />
+            <solid android:color="@color/gray40" />
         </shape>
     </item>
 </selector>

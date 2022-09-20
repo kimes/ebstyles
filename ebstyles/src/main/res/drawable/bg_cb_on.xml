@@ -7,7 +7,7 @@
             <solid android:color="@color/blue40" />
         </shape>
     </item>
-    <item android:drawable="@drawable/ic_check"
+    <item android:drawable="@drawable/ic_cb_check"
         android:gravity="center"
         android:width="16dp" android:height="12.8dp">
     </item>
