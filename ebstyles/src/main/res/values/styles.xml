@@ -223,17 +223,17 @@
         <item name="android:background">@drawable/bg_btn_round_warning</item>
     </style>
 
-    <style name="Easybus.ImageButtonStyle.Outline">
+    <style name="Easybus.ImageButtonStyle.Round.Outline">
         <item name="android:tint">@drawable/cs_btn_outline</item>
         <item name="android:background">@drawable/bg_btn_round_outline</item>
     </style>
 
-    <style name="Easybus.ImageButtonStyle.Outline.Warning">
+    <style name="Easybus.ImageButtonStyle.Round.Outline.Warning">
         <item name="android:tint">@drawable/cs_btn_outline_warning</item>
         <item name="android:background">@drawable/bg_btn_round_outline_warning</item>
     </style>
 
-    <style name="Easybus.ImageButtonStyle.Outline.Error">
+    <style name="Easybus.ImageButtonStyle.Round.Outline.Error">
         <item name="android:tint">@drawable/cs_btn_outline_error</item>
         <item name="android:background">@drawable/bg_btn_round_outline_error</item>
     </style>
@@ -246,16 +246,20 @@
         <item name="android:popupBackground">@drawable/bg_dropdown_menu</item>
     </style>
 
+    <style name="Easybus.SpinnerStyle.Primary">
+        <item name="android:background">@drawable/bg_spinner_primary</item>
+    </style>
+
     <style name="Easybus.SpinnerStyle.Secondary">
         <item name="android:background">@drawable/bg_spinner_secondary</item>
     </style>
 
-    <style name="Easybus.SpinnerStyle.Round">
-        <item name="android:background">@drawable/bg_spinner_round</item>
+    <style name="Easybus.SpinnerStyle.Pill">
+        <item name="android:background">@drawable/bg_spinner_pill</item>
     </style>
 
-    <style name="Easybus.SpinnerStyle.Round.Secondary">
-        <item name="android:background">@drawable/bg_spinner_round_secondary</item>
+    <style name="Easybus.SpinnerStyle.Pill.Secondary">
+        <item name="android:background">@drawable/bg_spinner_pill_secondary</item>
     </style>
 
     <style name="Easybus.CheckBoxStyle">

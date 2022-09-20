@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:state_pressed="true">
-        <ripple android:color="@color/gray20">
+        <ripple android:color="@color/blue20">
             <item>
                 <layer-list>
                     <item>
                         <shape android:shape="rectangle">
-                            <corners android:radius="@dimen/radiusXSmall" />
-                            <solid android:color="@color/blue30" />
+                            <corners android:radius="@dimen/radiusMax" />
+                            <solid android:color="@color/blue10" />
                         </shape>
                     </item>
                     <item android:right="15dp"
@@ -23,8 +23,9 @@
         <layer-list>
             <item>
                 <shape android:shape="rectangle">
-                    <corners android:radius="@dimen/radiusXSmall" />
-                    <solid android:color="@color/gray30" />
+                    <corners android:radius="@dimen/radiusMax" />
+                    <stroke android:color="@color/blue10" android:width="2dp" />
+                    <solid android:color="@color/white" />
                 </shape>
             </item>
             <item android:right="15dp"
@@ -37,8 +38,9 @@
         <layer-list>
             <item>
                 <shape android:shape="rectangle">
-                    <corners android:radius="@dimen/radiusXSmall" />
-                    <solid android:color="@color/gray40" />
+                    <corners android:radius="@dimen/radiusMax" />
+                    <stroke android:color="@color/gray40" android:width="2dp" />
+                    <solid android:color="@color/white" />
                 </shape>
             </item>
             <item android:right="15dp"

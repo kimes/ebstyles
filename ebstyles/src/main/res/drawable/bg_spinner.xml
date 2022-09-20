@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:state_pressed="true">
-        <layer-list>
+        <ripple android:color="@color/blue20">
             <item>
-                <shape android:shape="rectangle">
-                    <corners android:radius="@dimen/radiusXSmall" />
-                    <solid android:color="@color/blue60" />
-                </shape>
+                <layer-list>
+                    <item>
+                        <shape android:shape="rectangle">
+                        </shape>
+                    </item>
+                    <item android:right="15dp"
+                        android:drawable="@drawable/ic_chevron_down"
+                        android:gravity="center_vertical|right"
+                        android:width="12dp" android:height="7.2dp" />
+                </layer-list>
             </item>
-            <item android:right="15dp"
-                android:drawable="@drawable/ic_chevron_down"
-                android:gravity="center_vertical|right"
-                android:width="12dp" android:height="7.2dp" />
-        </layer-list>
+        </ripple>
     </item>
     <item android:state_pressed="false"
         android:state_enabled="true">
         <layer-list>
             <item>
                 <shape android:shape="rectangle">
-                    <corners android:radius="@dimen/radiusXSmall" />
-                    <solid android:color="@color/white" />
                 </shape>
             </item>
             <item android:right="15dp"
@@ -33,8 +33,7 @@
         <layer-list>
             <item>
                 <shape android:shape="rectangle">
-                    <corners android:radius="@dimen/radiusXSmall" />
-                    <solid android:color="@color/gray50" />
+                    <solid android:color="@color/gray40" />
                 </shape>
             </item>
             <item android:right="15dp"
