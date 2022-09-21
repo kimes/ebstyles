@@ -14,7 +14,8 @@
     <color name="gray20">#828282</color>
     <color name="gray30">#BDBDBD</color>
     <color name="gray40">#E0E0E0</color>
-    <color name="gray50">#F2F2F2</color>
+    <color name="gray50">#EBEBEB</color>
+    <color name="gray60">#F2F2F2</color>
 
     <color name="orange10">#FC502A</color>
     <color name="orange20">#E08A00</color>

@@ -18,7 +18,7 @@
     </item>
     <item android:state_enabled="false">
         <shape android:shape="oval">
-            <stroke android:color="@color/gray40" android:width="2dp" />
+            <stroke android:color="@color/gray50" android:width="2dp" />
             <solid android:color="@color/white" />
         </shape>
     </item>
