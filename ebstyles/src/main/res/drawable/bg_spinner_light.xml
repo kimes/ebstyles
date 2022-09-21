@@ -11,7 +11,7 @@
                         </shape>
                     </item>
                     <item android:right="15dp"
-                        android:drawable="@drawable/ic_spn_chevron_down"
+                        android:drawable="@drawable/ic_spn_chevron_down_dark"
                         android:gravity="center_vertical|right"
                         android:width="12dp" android:height="7.2dp" />
                 </layer-list>
@@ -28,7 +28,7 @@
                 </shape>
             </item>
             <item android:right="15dp"
-                android:drawable="@drawable/ic_spn_chevron_down"
+                android:drawable="@drawable/ic_spn_chevron_down_dark"
                 android:gravity="center_vertical|right"
                 android:width="12dp" android:height="7.2dp" />
         </layer-list>
@@ -42,7 +42,7 @@
                 </shape>
             </item>
             <item android:right="15dp"
-                android:drawable="@drawable/ic_spn_chevron_down"
+                android:drawable="@drawable/ic_spn_chevron_down_dark"
                 android:gravity="center_vertical|right"
                 android:width="12dp" android:height="7.2dp" />
         </layer-list>

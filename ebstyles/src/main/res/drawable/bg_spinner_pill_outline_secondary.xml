@@ -6,12 +6,12 @@
                 <layer-list>
                     <item>
                         <shape android:shape="rectangle">
-                            <corners android:radius="@dimen/radiusXSmall" />
+                            <corners android:radius="@dimen/radiusMax" />
                             <solid android:color="@color/gray30" />
                         </shape>
                     </item>
                     <item android:right="15dp"
-                        android:drawable="@drawable/ic_spn_chevron_down"
+                        android:drawable="@drawable/ic_spn_chevron_down_dark"
                         android:gravity="center_vertical|right"
                         android:width="12dp" android:height="7.2dp" />
                 </layer-list>
@@ -23,12 +23,13 @@
         <layer-list>
             <item>
                 <shape android:shape="rectangle">
-                    <corners android:radius="@dimen/radiusXSmall" />
-                    <solid android:color="@color/gray30" />
+                    <corners android:radius="@dimen/radiusMax" />
+                    <stroke android:color="@color/gray30" android:width="2dp" />
+                    <solid android:color="@color/white" />
                 </shape>
             </item>
             <item android:right="15dp"
-                android:drawable="@drawable/ic_spn_chevron_down"
+                android:drawable="@drawable/ic_spn_chevron_down_dark"
                 android:gravity="center_vertical|right"
                 android:width="12dp" android:height="7.2dp" />
         </layer-list>
@@ -37,12 +38,13 @@
         <layer-list>
             <item>
                 <shape android:shape="rectangle">
-                    <corners android:radius="@dimen/radiusXSmall" />
-                    <solid android:color="@color/gray40" />
+                    <corners android:radius="@dimen/radiusMax" />
+                    <stroke android:color="@color/gray40" android:width="2dp" />
+                    <solid android:color="@color/white" />
                 </shape>
             </item>
             <item android:right="15dp"
-                android:drawable="@drawable/ic_spn_chevron_down"
+                android:drawable="@drawable/ic_spn_chevron_down_dark"
                 android:gravity="center_vertical|right"
                 android:width="12dp" android:height="7.2dp" />
         </layer-list>
