@@ -148,6 +148,18 @@
         <item name="android:background">@drawable/bg_btn_light</item>
     </style>
 
+    <style name="Easybus.ButtonStyle.Light.Top">
+        <item name="android:background">@drawable/bg_btn_light_top</item>
+    </style>
+
+    <style name="Easybus.ButtonStyle.Light.Bottom">
+        <item name="android:background">@drawable/bg_btn_light_bottom</item>
+    </style>
+
+    <style name="Easybus.ButtonStyle.Light.Center">
+        <item name="android:background">@drawable/bg_btn_light_center</item>
+    </style>
+
     <style name="Easybus.ButtonStyle.Outline">
         <item name="android:textColor">@drawable/cs_btn_outline</item>
         <item name="android:background">@drawable/bg_btn_outline</item>
