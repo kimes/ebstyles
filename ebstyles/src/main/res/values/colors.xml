@@ -9,6 +9,7 @@
     <color name="blue40">#70DBFF</color>
     <color name="blue50">#ADEBFF</color>
     <color name="blue60">#E1EFF3</color>
+    <color name="blue70">#F0F7F9</color>
 
     <color name="gray10">#4F4F4F</color>
     <color name="gray20">#828282</color>
@@ -27,6 +28,8 @@
     <color name="red10">#CF1B1B</color>
     <color name="red20">#CF534A</color>
     <color name="red30">#EB5757</color>
+    <color name="red40">#8F0B0B</color>
+    <color name="red50">#F9C8C8</color>
 
     <color name="green10">#219653</color>
     <color name="green20">#27AE60</color>
