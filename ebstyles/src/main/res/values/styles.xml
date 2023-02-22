@@ -248,6 +248,11 @@
         <item name="android:background">@drawable/bg_btn_round_outline</item>
     </style>
 
+    <style name="Easybus.ImageButtonStyle.Round.Outline.Secondary">
+        <item name="android:tint">@drawable/cs_btn_outline_secondary</item>
+        <item name="android:background">@drawable/bg_btn_round_outline_secondary</item>
+    </style>
+
     <style name="Easybus.ImageButtonStyle.Round.Outline.Warning">
         <item name="android:tint">@drawable/cs_btn_outline_warning</item>
         <item name="android:background">@drawable/bg_btn_round_outline_warning</item>
