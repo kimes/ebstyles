@@ -48,7 +48,7 @@
         <item name="android:textSize">@dimen/textXLarge</item>
     </style>
 
-    <style name="Easybus.TextStyle.Error">
+    <style name="Easybus.TextStyle.Danger">
         <item name="android:textColor">@color/red10</item>
         <item name="android:textSize">@dimen/textMedium</item>
         <item name="android:fontFamily">@font/poppins_semibold</item>
@@ -72,7 +72,7 @@
         <item name="android:background">@color/gray10</item>
     </style>
 
-    <style name="Easybus.HeadlineText.Error">
+    <style name="Easybus.HeadlineText.Danger">
         <item name="android:background">@color/red20</item>
     </style>
 
@@ -136,12 +136,16 @@
         <item name="android:background">@drawable/bg_btn_success</item>
     </style>
 
+    <style name="Easybus.ButtonStyle.Success.BottomLeft">
+        <item name="android:background">@drawable/bg_btn_success_bottom_left</item>
+    </style>
+
     <style name="Easybus.ButtonStyle.Warning">
         <item name="android:background">@drawable/bg_btn_warning</item>
     </style>
 
-    <style name="Easybus.ButtonStyle.Error">
-        <item name="android:background">@drawable/bg_btn_error</item>
+    <style name="Easybus.ButtonStyle.Danger">
+        <item name="android:background">@drawable/bg_btn_danger</item>
     </style>
 
     <style name="Easybus.ButtonStyle.Light">
@@ -165,6 +169,14 @@
         <item name="android:background">@drawable/bg_btn_outline</item>
     </style>
 
+    <style name="Easybus.ButtonStyle.Dark">
+        <item name="android:textColor">@drawable/cs_btn_outline</item>
+    </style>
+
+    <style name="Easybus.ButtonStyle.Dark.BottomRight">
+        <item name="android:background">@drawable/bg_btn_dark_bottom_right</item>
+    </style>
+
     <style name="Easybus.ButtonStyle.Pill">
         <item name="android:background">@drawable/bg_btn_pill</item>
     </style>
@@ -186,8 +198,8 @@
         <item name="android:background">@drawable/bg_btn_pill_warning</item>
     </style>
 
-    <style name="Easybus.ButtonStyle.Pill.Error">
-        <item name="android:background">@drawable/bg_btn_pill_error</item>
+    <style name="Easybus.ButtonStyle.Pill.Danger">
+        <item name="android:background">@drawable/bg_btn_pill_danger</item>
     </style>
 
     <style name="Easybus.ButtonStyle.Pill.Light">
@@ -258,9 +270,9 @@
         <item name="android:background">@drawable/bg_btn_round_outline_warning</item>
     </style>
 
-    <style name="Easybus.ImageButtonStyle.Round.Outline.Error">
-        <item name="android:tint">@drawable/cs_btn_outline_error</item>
-        <item name="android:background">@drawable/bg_btn_round_outline_error</item>
+    <style name="Easybus.ImageButtonStyle.Round.Outline.Danger">
+        <item name="android:tint">@drawable/cs_btn_outline_danger</item>
+        <item name="android:background">@drawable/bg_btn_round_outline_danger</item>
     </style>
 
     <style name="Easybus.SpinnerStyle">
