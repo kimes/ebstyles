@@ -170,7 +170,7 @@
     </style>
 
     <style name="Easybus.ButtonStyle.Dark">
-        <item name="android:textColor">@drawable/cs_btn_outline</item>
+        <item name="android:textColor">@drawable/cs_btn</item>
     </style>
 
     <style name="Easybus.ButtonStyle.Dark.BottomRight">
