@@ -190,6 +190,10 @@
         <item name="android:textColor">@color/white</item>
     </style>
 
+    <style name="Easybus.ButtonStyle.Pill.Info">
+        <item name="android:background">@drawable/bg_btn_pill_info</item>
+    </style>
+
     <style name="Easybus.ButtonStyle.Pill.Success">
         <item name="android:background">@drawable/bg_btn_pill_success</item>
     </style>
