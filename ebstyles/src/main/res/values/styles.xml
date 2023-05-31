@@ -259,6 +259,11 @@
         <item name="android:background">@drawable/bg_btn_round_warning</item>
     </style>
 
+    <style name="Easybus.ImageButtonStyle.Round.Danger">
+        <item name="android:tint">@drawable/cs_btn</item>
+        <item name="android:background">@drawable/bg_btn_round_danger</item>
+    </style>
+
     <style name="Easybus.ImageButtonStyle.Round.Outline">
         <item name="android:tint">@drawable/cs_btn_outline</item>
         <item name="android:background">@drawable/bg_btn_round_outline</item>
