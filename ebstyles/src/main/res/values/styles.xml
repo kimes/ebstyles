@@ -284,6 +284,11 @@
         <item name="android:background">@drawable/bg_btn_round_outline_danger</item>
     </style>
 
+    <style name="Easybus.ImageButtonStyle.Round.Outline.Success">
+        <item name="android:tint">@drawable/cs_btn_outline_success</item>
+        <item name="android:background">@drawable/bg_btn_round_outline_success</item>
+    </style>
+
     <style name="Easybus.SpinnerStyle">
         <item name="android:dropDownVerticalOffset">38dp</item>
         <item name="android:popupElevation">0dp</item>
