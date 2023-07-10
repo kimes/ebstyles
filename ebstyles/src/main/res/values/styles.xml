@@ -215,6 +215,11 @@
         <item name="android:background">@drawable/bg_btn_pill_outline</item>
     </style>
 
+    <style name="Easybus.ButtonStyle.Pill.Outline.Info">
+        <item name="android:textColor">@drawable/cs_btn_outline</item>
+        <item name="android:background">@drawable/bg_btn_pill_outline_info</item>
+    </style>
+
     <style name="Easybus.ImageButtonStyle">
         <item name="android:scaleType">fitCenter</item>
         <item name="android:padding">15dp</item>
