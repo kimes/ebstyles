@@ -7,11 +7,12 @@
     <dimen name="radiusXBig">30dp</dimen>
     <dimen name="radiusMax">500dp</dimen>
 
-    <dimen name="textXSmall">8.8sp</dimen>
-    <dimen name="textSmall">11.7sp</dimen>
-    <dimen name="textMedium">14.6sp</dimen>
-    <dimen name="textLarge">17.6sp</dimen>
-    <dimen name="textXLarge">23.4sp</dimen>
+    <dimen name="textXSmall">9sp</dimen>
+    <dimen name="textSmall">12sp</dimen>
+    <dimen name="textMedium">15sp</dimen>
+    <dimen name="textLarge">18sp</dimen>
+    <dimen name="textXLarge">20sp</dimen>
+    <dimen name="textXXLarge">25sp</dimen>
 
     <dimen name="switchTrackWidth">60dp</dimen>
     <dimen name="switchTrackHeight">30dp</dimen>
