@@ -12,10 +12,12 @@
         style="@style/Easybus.CheckBoxStyle.Button" />
 
     <androidx.appcompat.widget.AppCompatTextView
+        style="@style/Easybus.TextStyle.Small"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Kimuel"
-        style="@style/Easybus.TextStyle.Small" />
+        android:textSize="28sp"
+        android:fontFamily="@font/outfit_bold" />
 
     <androidx.appcompat.widget.AppCompatImageButton
         android:layout_width="@dimen/btnHeight"

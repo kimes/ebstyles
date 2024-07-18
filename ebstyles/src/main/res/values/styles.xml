@@ -4,7 +4,7 @@
         <!-- <item name="android:textColor">@color/gray80</item> -->
         <item name="android:textSize">@dimen/textMedium</item>
         <item name="android:textColor">@color/gray10</item>
-        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:fontFamily">@font/outfit</item>
     </style>
 
     <style name="Easybus.TextStyle">
@@ -33,7 +33,7 @@
 
     <style name="Easybus.TextStyle.Title">
         <item name="android:textSize">@dimen/textXSmall</item>
-        <item name="android:fontFamily">@font/poppins_semibold</item>
+        <item name="android:fontFamily">@font/outfit_semibold</item>
     </style>
 
     <style name="Easybus.TextStyle.Title.Small">
@@ -56,16 +56,41 @@
         <item name="android:textSize">@dimen/textXXLarge</item>
     </style>
 
+    <style name="Easybus.TextStyle.TitleBold">
+        <item name="android:textSize">@dimen/textXSmall</item>
+        <item name="android:fontFamily">@font/outfit_bold</item>
+    </style>
+
+    <style name="Easybus.TextStyle.TitleBold.Small">
+        <item name="android:textSize">@dimen/textSmall</item>
+    </style>
+
+    <style name="Easybus.TextStyle.TitleBold.Medium">
+        <item name="android:textSize">@dimen/textMedium</item>
+    </style>
+
+    <style name="Easybus.TextStyle.TitleBold.Large">
+        <item name="android:textSize">@dimen/textLarge</item>
+    </style>
+
+    <style name="Easybus.TextStyle.TitleBold.XLarge">
+        <item name="android:textSize">@dimen/textXLarge</item>
+    </style>
+
+    <style name="Easybus.TextStyle.TitleBold.XXLarge">
+        <item name="android:textSize">@dimen/textXXLarge</item>
+    </style>
+
     <style name="Easybus.TextStyle.Danger">
         <item name="android:textColor">@color/red10</item>
         <item name="android:textSize">@dimen/textMedium</item>
-        <item name="android:fontFamily">@font/poppins_semibold</item>
+        <item name="android:fontFamily">@font/outfit_semibold</item>
     </style>
 
     <style name="Easybus.TextStyle.Success">
         <item name="android:textColor">@color/green10</item>
         <item name="android:textSize">@dimen/textMedium</item>
-        <item name="android:fontFamily">@font/poppins_semibold</item>
+        <item name="android:fontFamily">@font/outfit_semibold</item>
     </style>
 
     <style name="Easybus.HeadlineText">

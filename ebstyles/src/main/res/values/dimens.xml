@@ -14,6 +14,9 @@
     <dimen name="textXLarge">20sp</dimen>
     <dimen name="textXXLarge">25sp</dimen>
 
+    <dimen name="textHeading1">48sp</dimen>
+    <dimen name="textHeading2">36sp</dimen>
+
     <dimen name="switchTrackWidth">60dp</dimen>
     <dimen name="switchTrackHeight">30dp</dimen>
     <dimen name="switchThumbSize">25dp</dimen>

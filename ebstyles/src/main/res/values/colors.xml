@@ -39,6 +39,12 @@
     <color name="green40">#8BC53D</color>
     <color name="green50">#DEF7E8</color>
 
+    <color name="indigo10">#2E307E</color>
+
+    <color name="sky10">#5C99F7</color>
+
+    <color name="yellow10">#FFFF89</color>
+
     <color name="gray70Trans">#9AF2F2F2</color>
     <color name="whiteTrans">#B3FFFFFF</color>
 </resources>

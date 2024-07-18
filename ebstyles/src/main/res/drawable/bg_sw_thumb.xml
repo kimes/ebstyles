@@ -24,6 +24,11 @@
                     <solid android:color="@color/gray40" />
                 </shape>
             </item>
+            <!--
+            <item
+                android:top="15dp" android:bottom="15dp"
+                android:left="15dp" android:right="15dp"
+                android:drawable="@drawable/ic_cb_check" /> -->
         </layer-list>
     </item>
 </selector>
