@@ -7,12 +7,21 @@
     <dimen name="radiusXBig">30dp</dimen>
     <dimen name="radiusMax">500dp</dimen>
 
+    <!--
     <dimen name="textXSmall">9sp</dimen>
     <dimen name="textSmall">12sp</dimen>
     <dimen name="textMedium">15sp</dimen>
     <dimen name="textLarge">18sp</dimen>
     <dimen name="textXLarge">20sp</dimen>
-    <dimen name="textXXLarge">25sp</dimen>
+    <dimen name="textXXLarge">25sp</dimen> -->
+    <dimen name="textXXSmall">10sp</dimen>
+    <dimen name="textXSmall">16sp</dimen>
+    <dimen name="textSmall">20sp</dimen>
+    <dimen name="textMedium">24sp</dimen>
+    <dimen name="textLarge">28sp</dimen>
+    <dimen name="textXLarge">32sp</dimen>
+    <dimen name="textXXLarge">36sp</dimen>
+    <dimen name="textXXXLarge">48sp</dimen>
 
     <dimen name="textHeading1">48sp</dimen>
     <dimen name="textHeading2">36sp</dimen>
