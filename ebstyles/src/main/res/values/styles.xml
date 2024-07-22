@@ -46,7 +46,6 @@
 
     <style name="Easybus.TextStyle.Title.XSmall">
         <item name="android:textSize">@dimen/textXSmall</item>
-        <item name="android:fontFamily">@font/outfit_semibold</item>
     </style>
 
     <style name="Easybus.TextStyle.Title.Small">
@@ -73,14 +72,13 @@
         <item name="android:textSize">@dimen/textXXXLarge</item>
     </style>
 
-    <style name="Easybus.TextStyle.TitleBold.XXSmall">
-        <item name="android:textSize">@dimen/textXSmall</item>
+    <style name="Easybus.TextStyle.TitleBold">
+        <item name="android:textSize">@dimen/textXXSmall</item>
         <item name="android:fontFamily">@font/outfit_bold</item>
     </style>
 
     <style name="Easybus.TextStyle.TitleBold.XSmall">
         <item name="android:textSize">@dimen/textXSmall</item>
-        <item name="android:fontFamily">@font/outfit_bold</item>
     </style>
 
     <style name="Easybus.TextStyle.TitleBold.Small">
