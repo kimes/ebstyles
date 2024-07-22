@@ -2,7 +2,7 @@
 <resources>
     <style name="Easybus">
         <!-- <item name="android:textColor">@color/gray80</item> -->
-        <item name="android:textSize">@dimen/textMedium</item>
+        <item name="android:textSize">@dimen/textSmall</item>
         <item name="android:textColor">@color/gray10</item>
         <item name="android:fontFamily">@font/outfit</item>
     </style>
@@ -138,7 +138,7 @@
         <item name="android:paddingBottom">10dp</item>
         <item name="android:paddingStart">15dp</item>
         <item name="android:paddingEnd">15dp</item>
-        <item name="android:textSize">@dimen/textMedium</item>
+        <item name="android:textSize">@dimen/textSmall</item>
         <item name="android:textColor">@color/black</item>
         <item name="android:textColorHint">@color/gray40</item>
         <item name="android:background">@drawable/bg_et</item>
@@ -412,7 +412,7 @@
         <item name="android:padding">10dp</item>
         <item name="android:gravity">center</item>
         <item name="android:background">@drawable/bg_cb</item>
-        <item name="android:textSize">@dimen/textMedium</item>
+        <item name="android:textSize">@dimen/textSmall</item>
     </style>
 
     <style name="Easybus.SwitchStyle">
