@@ -14,7 +14,8 @@
     <dimen name="textLarge">18sp</dimen>
     <dimen name="textXLarge">20sp</dimen>
     <dimen name="textXXLarge">25sp</dimen> -->
-    <dimen name="textXXSmall">10sp</dimen>
+    <dimen name="textXXXSmall">10sp</dimen>
+    <dimen name="textXXSmall">12sp</dimen>
     <dimen name="textXSmall">16sp</dimen>
     <dimen name="textSmall">20sp</dimen>
     <dimen name="textMedium">24sp</dimen>

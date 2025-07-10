@@ -2,7 +2,7 @@
 <androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="horizontal">
+    android:orientation="vertical">
 
     <androidx.appcompat.widget.AppCompatCheckBox
         android:layout_width="20dp"
@@ -25,7 +25,14 @@
         android:src="@drawable/ic_cb_check"
         android:focusable="false"
         android:clickable="false"
-        style="@style/Easybus.ImageButtonStyle.Square" />
+        style="@style/Easybus.ImageButtonStyle.Round" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="@dimen/btnWidth"
+        android:layout_height="@dimen/btnHeight"
+        android:gravity="center"
+        android:text="Validate"
+        style="@style/Easybus.ButtonStyle.Tertiary" />
 
     <androidx.appcompat.widget.AppCompatSpinner
         android:layout_width="@dimen/btnWidth"
